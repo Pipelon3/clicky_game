@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Squirtle",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png"
+  },
+  {
+    "id": 2,
+    "name": "Charmander",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png"
+  },
+  {
+    "id": 3,
+    "name": "Bulbasaur",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png"
+  },
+  {
+    "id": 4,
+    "name": "Chikorita",
+    "image": "https://cdn.bulbagarden.net/upload/c/c7/Crystal_Megaree_Chikorita.png"
+  },
+  {
+    "id": 5,
+    "name": "Totodile",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/158.png"
+  },
+  {
+    "id": 6,
+    "name": "Cyndaquil",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/155.png"
+  },
+  {
+    "id": 7,
+    "name": "Torchic",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/255.png"
+  },
+  {
+    "id": 8,
+    "name": "Mudkip",
+    "image": "https://upload.wikimedia.org/wikipedia/en/2/22/Pok%C3%A9mon_Mudkip_art.png"
+  },
+  {
+    "id": 9,
+    "name": "Treecko",
+    "image": "https://cdn.bulbagarden.net/upload/thumb/2/2c/252Treecko.png/250px-252Treecko.png"
+  },
+  {
+    "id": 10,
+    "name": "Piplup",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/393.png"
+  },
+  {
+    "id": 11,
+    "name": "Chimchar",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/390.png"
+  },
+  {
+    "id": 12,
+    "name": "Turtwig",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/387.png"
+  }
+]
